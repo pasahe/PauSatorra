@@ -6,23 +6,23 @@ title: "Publications"
 
 ## Scientific publications
 
-- Satorra, P., Tebé, C. _Bayesian spatio-temporal analysis of the COVID-19 pandemic in Catalonia_. Sci Rep 14, 4220 (2024). <https://doi.org/10.1038/s41598-024-53527-w> 
+- **Satorra, P.**, Tebé, C. _Bayesian spatio-temporal analysis of the COVID-19 pandemic in Catalonia_. Sci Rep 14, 4220 (2024). <https://doi.org/10.1038/s41598-024-53527-w> 
 
-- Carmezim, J., Satorra, P., Peñafiel, J. et al. _REDCapDM: An R package with a set of data management tools for a REDCap project_. BMC Med Res Methodol 24, 55 (2024). <https://doi.org/10.1186/s12874-024-02178-6>
+- Carmezim, J., **Satorra, P.**, Peñafiel, J. et al. _REDCapDM: An R package with a set of data management tools for a REDCap project_. BMC Med Res Methodol 24, 55 (2024). <https://doi.org/10.1186/s12874-024-02178-6>
 
-- Llambrich M, Satorra P, Correig E, Guma J, Brezmes J, Tebe C, Cumeras R. _Easy‐Amanida: An R Shiny application for the meta‐analysis of aggregate results in clinical metabolomics using Amanida and Webchem_. Research Synthesis Methods. 2024 Mar 13:e1713.
+- Llambrich M, **Satorra P**, Correig E, Guma J, Brezmes J, Tebe C, Cumeras R. _Easy‐Amanida: An R Shiny application for the meta‐analysis of aggregate results in clinical metabolomics using Amanida and Webchem_. Research Synthesis Methods. 2024 Mar 13:e1713.
 
 - Gómez-Vaquero, Carmen, et al. _High incidence of clinical fragility fractures in postmenopausal women with rheumatoid arthritis_. A case-control study." Bone 168 (2023): 116654.
 
 - Negredo, Eugenia, et al. _Accentuated aging associated with HIV in a Mediterranean setting occurs mainly in persons aged> 70 years: a comparative cohort study (Over50 cohort)._ AIDS care 34.2 (2022): 155-162.
 
-- Ronda, M., Padullés, A., Grau, I., Tubau, F., Satorra, P., Shaw, E., Vigués, F. and Carratalà, J., 2023. _Impact of a prospective audit and feedback antimicrobial stewardship programme on carbapenem consumption: a quasi-experimental study (IPANEMA study)_. Journal of Antimicrobial Chemotherapy, 78(7), pp.1705-1710.
+- Ronda, M., Padullés, A., Grau, I., Tubau, F., **Satorra, P.**, Shaw, E., Vigués, F. and Carratalà, J., 2023. _Impact of a prospective audit and feedback antimicrobial stewardship programme on carbapenem consumption: a quasi-experimental study (IPANEMA study)_. Journal of Antimicrobial Chemotherapy, 78(7), pp.1705-1710.
 
-- Fontané L, Pedro-Botet J, Garcia-Ribera S, Climent E, Muns MD, Ballesta S, Satorra P, Flores-Le Roux JA, Benaiges D. _Use of phytosterol-fortified foods to improve LDL cholesterol levels: A systematic review and meta-analysis_. Nutrition, Metabolism and Cardiovascular Diseases. 2023 Aug 1;33(8):1472-80.
+- Fontané L, Pedro-Botet J, Garcia-Ribera S, Climent E, Muns MD, Ballesta S, **Satorra P**, Flores-Le Roux JA, Benaiges D. _Use of phytosterol-fortified foods to improve LDL cholesterol levels: A systematic review and meta-analysis_. Nutrition, Metabolism and Cardiovascular Diseases. 2023 Aug 1;33(8):1472-80.
 
-- Tebé, C., Valls, J., Satorra, P. et al. _COVID19-world: a shiny application to perform comprehensive country-specific data visualization for SARS-CoV-2 epidemic_. BMC Med Res Methodol 20, 235 (2020). <https://doi.org/10.1186/s12874-020-01121-9>
+- Tebé, C., Valls, J., **Satorra, P.** et al. _COVID19-world: a shiny application to perform comprehensive country-specific data visualization for SARS-CoV-2 epidemic_. BMC Med Res Methodol 20, 235 (2020). <https://doi.org/10.1186/s12874-020-01121-9>
 
-- Valls J, Tobías A, Satorra P, Tebé C. _COVID19-Tracker: a shiny app to analise data on SARS-CoV-2 epidemic in Spain_. Gaceta sanitaria. 2020 Apr 27;35(1):99-101.
+- Valls J, Tobías A, **Satorra P**, Tebé C. _COVID19-Tracker: a shiny app to analise data on SARS-CoV-2 epidemic in Spain_. Gaceta sanitaria. 2020 Apr 27;35(1):99-101.
 
 ## R packages
 
@@ -43,7 +43,7 @@ title: "Publications"
 
 ::: {.column width="70%"}
 <br>
-Satorra P, Carmezim J, Pallarès N, Tebé C (2024). _flowchart: Tidy Flowchart Generator_. R
+**Satorra P**, Carmezim J, Pallarès N, Tebé C (2024). _flowchart: Tidy Flowchart Generator_. R
   package version 0.4.0.1, <https://bruigtp.github.io/flowchart/>.
 
 :::
@@ -69,7 +69,7 @@ Satorra P, Carmezim J, Pallarès N, Tebé C (2024). _flowchart: Tidy Flowchart G
 
 ::: {.column width="70%"}
 
-Carmezim J, Satorra P, Peñafiel J, García E, Pallarès N, Santos N, Tebé C (2024).
+Carmezim J, **Satorra P**, Peñafiel J, García E, Pallarès N, Santos N, Tebé C (2024).
   “REDCapDM: An R package with a set of data management tools for a REDCap project.” _BMC
   Medical Research Methodology_, *24*(1), 55. doi:10.1186/s12874-024-02178-6
   <https://doi.org/10.1186/s12874-024-02178-6>.

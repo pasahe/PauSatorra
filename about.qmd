@@ -18,12 +18,7 @@ title: "About me"
 
 ::: {.column width="60%"}
 
-
-Date of birth: 12/12/1996
-
-Gender: Male
-
-Nationality: Spanish
+I'm a biostatistician with a mathematical background and a master's degree in data science. I have more than 6 years of experience in clinical research analysis, programming in R and creating shiny web applications & developing new R packages.
 
 **Contact**
 
