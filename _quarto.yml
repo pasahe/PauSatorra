@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Pau Satorra"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About me
+      - pub.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: WWW/styles.css
+    toc: true
+
+
+
