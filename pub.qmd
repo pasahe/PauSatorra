@@ -7,6 +7,9 @@ title: "Publications"
 ## Scientific publications
 
 - **Satorra, P.**, Tebé, C. _Bayesian spatio-temporal analysis of the COVID-19 pandemic in Catalonia_. Sci Rep 14, 4220 (2024). <https://doi.org/10.1038/s41598-024-53527-w> 
+<hr>
+
+- Abelenda-Alonso G, **Satorra P**, Marí-Dell’Olmo M, et al. Short-Term Exposure to Ambient Air Pollution and Antimicrobial Use for Acute Respiratory Symptoms. JAMA Netw Open. 2024;7(9):e2432245. <https://doi.org/10.1001/jamanetworkopen.2024.32245>
 
 - Carmezim, J., **Satorra, P.**, Peñafiel, J. et al. _REDCapDM: An R package with a set of data management tools for a REDCap project_. BMC Med Res Methodol 24, 55 (2024). <https://doi.org/10.1186/s12874-024-02178-6>
 

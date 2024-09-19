@@ -36,16 +36,26 @@ I'm a biostatistician with a mathematical background and a master's degree in da
 
 6 years of experience in two different biostatics unit associated to two hospitals in Spain. My tasks were to perform & design statistical analysis for a wide range of clinical studies, reporting statistical analysis to researchers and clinicians, performing statistical research and web application programming in shiny:
 
-- Statistic in Biostatistics Support and Research Unit in _Germans Trias i Pujol Research Institute and Hospital (IGTP)_, Badalona, Spain. 2023-Current
+- Statistic in _Biostatistics Support and Research Unit, Germans Trias i Pujol Research Institute and Hospital (IGTP), Badalona, Spain_. 2023-**Current**
 
-- Statistic in Biostatics Unit in _Bellvitge Biomedical Research Institute (IDIBELL)_, L'Hospitalet de Llobregat, Spain. 2019-2023
+<hr>
+
+- Statistic in _Biostatics Unit, Bellvitge Biomedical Research Institute (IDIBELL), L'Hospitalet de Llobregat, Spain_. 2019-2023
 
 ## Education
 
+- BSc, Mathematics in _University of Barcelona (UB)_. 2015-2019
+
 - MPH, Master in Fundamental Principles of Data Science in _University of Barcelona (UB)_. 2021-2023
 
-- BSc, Mathematics in _University of Barcelona (UB)_. 2015-2019
+<hr>
 
 - Postgraduate course on Data Science, applications in biology and in medicine with Python and R in _University of Barcelona (UB)_. 2021
 
 - First course of Bsc, Biomedical Engineering in _University of Barcelona (UB)_. 2014-2015
+
+<br>
+
+<hr>
+
+<a href = "https://pasahe.github.io/PauSatorra/pub.html"><i class="fa-solid fa-arrow-right"></i> Jump to publications  </a>
