@@ -11,6 +11,8 @@ title: "Publications"
 
 - Abelenda-Alonso G, **Satorra P**, Marí-Dell’Olmo M, et al. Short-Term Exposure to Ambient Air Pollution and Antimicrobial Use for Acute Respiratory Symptoms. JAMA Netw Open. 2024;7(9):e2432245. <https://doi.org/10.1001/jamanetworkopen.2024.32245>
 
+- Abelenda-Alonso, G., Calatayud, L., Rombauts, A. et al. _Multiplex real-time PCR in non-invasive respiratory samples to reduce antibiotic use in community-acquired pneumonia: a randomised trial_. Nat Commun 15, 7098 (2024). <https://doi.org/10.1038/s41467-024-51547-8>
+
 - Carmezim, J., **Satorra, P.**, Peñafiel, J. et al. _REDCapDM: An R package with a set of data management tools for a REDCap project_. BMC Med Res Methodol 24, 55 (2024). <https://doi.org/10.1186/s12874-024-02178-6>
 
 - Llambrich M, **Satorra P**, Correig E, Guma J, Brezmes J, Tebe C, Cumeras R. _Easy‐Amanida: An R Shiny application for the meta‐analysis of aggregate results in clinical metabolomics using Amanida and Webchem_. Research Synthesis Methods. 2024 Mar 13:e1713.
