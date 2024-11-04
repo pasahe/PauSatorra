@@ -18,7 +18,7 @@ title: "About me"
 
 ::: {.column width="60%"}
 
-I'm a biostatistician with a mathematical background and a master's degree in data science. I have more than 6 years of experience in clinical research analysis, programming in R and creating shiny web applications & developing new R packages.
+I’m a biostatistician with a Bachelor's degree in Mathematics and a Master’s degree in Data Science. I have more than 6 years of experience in clinical research analysis, programming in R and creating shiny web applications & developing new R packages.
 
 **Contact**
 
@@ -34,7 +34,8 @@ I'm a biostatistician with a mathematical background and a master's degree in da
 
 ## Work experience
 
-6 years of experience in two different biostatics unit associated to two hospitals in Spain. My tasks were to perform & design statistical analysis for a wide range of clinical studies, reporting statistical analysis to researchers and clinicians, performing statistical research and web application programming in shiny:
+6 years of experience in two different biostatics unit associated to two large hospitals in Spain providing statistical consulting during all phases of clinical research studies. My main duties include performing
+and designing statistical analyses, writing statistical reports, creating web applications, building and managing databases and writing publications.
 
 - Statistic in _Biostatistics Support and Research Unit, Germans Trias i Pujol Research Institute and Hospital (IGTP), Badalona, Spain_. 2023-**Current**
 
